@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "delicious_donuts:block/fluid/caramel_flow"
+    },
+    {
+      "type": "single",
+      "resource": "delicious_donuts:block/fluid/caramel_still"
+    }
+  ]
+}

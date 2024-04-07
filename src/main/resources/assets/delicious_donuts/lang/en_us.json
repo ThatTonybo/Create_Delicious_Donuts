@@ -1,0 +1,25 @@
+{
+  "itemGroup.delicious_donuts.main": "Create: Delicious Donuts",
+
+  "item.delicious_donuts.caramel_bucket": "Caramel Bucket",
+  "item.delicious_donuts.sweet_berry_glaze_bucket": "Sweet Berry Glaze Bucket",
+  "item.delicious_donuts.sprinkles": "Sprinkles",
+  "item.delicious_donuts.raw_donut": "Raw Donut",
+  "item.delicious_donuts.donut": "Donut",
+  "item.delicious_donuts.glazed_donut": "Glazed Donut",
+  "item.delicious_donuts.sprinkled_glazed_donut": "Sprinkled Glazed Donut",
+  "item.delicious_donuts.chocolate_donut": "Chocolate Donut",
+  "item.delicious_donuts.honey_donut": "Honey Donut",
+  "item.delicious_donuts.caramel_donut": "Caramel Donut",
+  "item.delicious_donuts.sweet_berry_glazed_donut": "Sweet Berry Glazed Donut",
+
+  "block.delicious_donuts.caramel": "Caramel",
+  "block.delicious_donuts.sweet_berry_glaze": "Sweet Berry Glaze",
+
+  "fluid.delicious_donuts.caramel": "Caramel",
+  "fluid.delicious_donuts.sweet_berry_glaze": "Sweet Berry Glaze",
+  "fluid.delicious_donuts.still_caramel": "Caramel",
+  "fluid.delicious_donuts.flowing_caramel": "Caramel",
+  "fluid.delicious_donuts.still_sweet_berry_glaze": "Sweet Berry Glaze",
+  "fluid.delicious_donuts.flowing_sweet_berry_glaze": "Sweet Berry Glaze"
+}

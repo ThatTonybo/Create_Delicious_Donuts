@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "delicious_donuts:donut"
+    },
+    {
+      "fluid": "delicious_donuts:sweet_berry_glaze",
+      "amount": 20250
+    }
+  ],
+  "results": [
+    {
+      "item": "delicious_donuts:sweet_berry_glazed_donut"
+    }
+  ]
+}

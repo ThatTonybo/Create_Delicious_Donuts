@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "delicious_donuts:raw_donut"
+  },
+  "result": "delicious_donuts:donut",
+  "experience": 0.0,
+  "cookingtime": 100
+}

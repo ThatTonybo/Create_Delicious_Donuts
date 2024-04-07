@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "delicious_donuts",
+	"version": "${version}",
+	"name": "Create: Delicious Donuts",
+	"description": "Create delicious donuts with your Create factory!",
+	"authors": [
+		"ThatTonybo"
+	],
+	"contact": {
+		"email": "thattonybo@gmail.com",
+		"homepage": "https://thattonybo.com",
+		"issues": "https://github.com/ThatTonybo/Create_Delicious_Donuts/issues",
+		"sources": "https://github.com/ThatTonybo/Create_Delicious_Donuts"
+	},
+	"license": "MIT",
+	"icon": "assets/delicious_donuts/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.thattonybo.delicious_donuts.ModMain"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"create": "0.5.1-f-build.1335+mc1.20.1"
+	}
+}

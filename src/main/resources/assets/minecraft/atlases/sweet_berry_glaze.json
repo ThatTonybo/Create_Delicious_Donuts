@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "delicious_donuts:block/fluid/sweet_berry_glaze_flow"
+    },
+    {
+      "type": "single",
+      "resource": "delicious_donuts:block/fluid/sweet_berry_glaze_still"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "delicious_donuts:donut"
+    },
+    {
+      "fluid": "create:chocolate",
+      "amount": 20250
+    }
+  ],
+  "results": [
+    {
+      "item": "delicious_donuts:chocolate_donut"
+    }
+  ]
+}

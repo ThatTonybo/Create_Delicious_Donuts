@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "delicious_donuts:glazed_donut"
+    },
+    {
+      "item": "delicious_donuts:sprinkles"
+    }
+  ],
+  "results": [
+    {
+      "item": "delicious_donuts:sprinkled_glazed_donut"
+    }
+  ]
+}
