@@ -15,5 +15,5 @@ assignees: ''
 
 **Versions (please complete the following information):**
 - Minecraft: [minecraft version, eg. 1.20.1]
-- Fabric: [fabric loader version, eg. ]
+- Fabric: [fabric loader version, eg. 0.15.7]
 - Mod: [mod version, eg. v1.0.0+mc1.20.1]
