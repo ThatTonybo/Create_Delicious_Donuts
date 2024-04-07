@@ -18,7 +18,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.thattonybo.delicious_donuts.ModMain"
+          "com.thattonybo.delicious_donuts.DeliciousDonuts"
 		]
 	},
 	"depends": {
